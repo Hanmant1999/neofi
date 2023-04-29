@@ -1,0 +1,46 @@
+.MyNav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+}
+
+
+
+.myLogo{
+    width: 120px;
+    height: 44px;
+    margin-left: 20px;
+}
+
+a{
+    padding:20px;
+    text-decoration: none;
+    color: #5A5A5A;
+}
+.MyLinks{
+    height: 42px;
+    width: 356px;
+}
+
+#trade{
+    color:#627EEA;
+}
+
+.NavButton{
+    background-color: rgb(79, 79, 187);
+    border-radius: 20px;
+    border:none;
+    height: 40px;
+    width:140px;
+    text-align: center;
+    background: linear-gradient(94.37deg, #3387D5 -5.94%, #7A06C9 115.34%),
+    linear-gradient(151.31deg, #FFFFFF -57.71%, rgba(255, 255, 255, 0) 82.32%);
+    color:#FFFFFF;
+    margin-right: 40px;
+
+}

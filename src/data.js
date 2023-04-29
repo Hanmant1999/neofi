@@ -1,0 +1,43 @@
+/*
+Here ,I tried to collect the data of various tokens to use inside the form
+*/
+export const tokens=[{
+    name:"Bitcoin",
+    key:"btcusdt",
+    imgaddress:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png"
+},
+{
+ name:"Etherium",
+ key:"ethusdt",
+ imgaddress:"https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png" 
+},
+{
+  name:"Matic",
+  key:"maticusdt",
+  imgaddress:"https://cdn3d.iconscout.com/3d/premium/thumb/polygon-matic-cryptocurrency-5108587-4263924.png"  
+},
+{
+    name:"BNB",
+    key:"bnbusdt",
+    imgaddress:"https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png"
+},
+{
+    name:"Xrp",
+    key:"xrpusdt",
+    imgaddress:"https://assets.coingecko.com/coins/images/44/small/xrp-symbol-white-128.png?1605778731"
+},
+{
+    name:"Polygon",
+    key:"polyusdt",
+    imgaddress:"https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
+},
+{
+    name:"Solana",
+    key:"soluusdt",
+    imgaddress:"https://assets.coingecko.com/coins/images/4128/small/solana.png"
+},
+{
+    name:"Cardano",
+    key:"cardano",
+    imgaddress:"https://assets.coingecko.com/coins/images/975/small/cardano.png"
+}]
